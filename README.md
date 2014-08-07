@@ -21,18 +21,18 @@ BUILT WITH:
 Node
 Socket.io
 and love
-<br>
+
 ### How to Run
 
 First thing you have to do is install NodeJS on your system. If you are a Windows or Mac user, you can visit [Node](nodejs.org) and download the installer. 
 
-After you've installed, you're ready to continue on, my dear friend. 
-<br> 
+After you're doing installing you can continue to the next part my dear friend.
+
 Install [ExpressJS](http://expressjs.com) - This will manage the server.
 Install [Socket.io](http://socket.io) - allows for real time communication between the front-end and back-end
-<br>
+
 After your amazing install fest, then run "npm install" from the terminal. This will download all of the needed dependencies. 
-<br> 
+
 Lastly, run "node app.js" from the command line and visit localhost:8080 to see the app.
 
 
