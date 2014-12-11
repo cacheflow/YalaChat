@@ -1,6 +1,6 @@
 # YaLa Academy
 
-![yala icon](http://photos-g.ak.fbcdn.net/hphotos-ak-prn2/t1.0-0/s240x240/1623582_774560009223835_7159794215110978132_n.png)
+![](http://photos-g.ak.fbcdn.net/hphotos-ak-prn2/t1.0-0/s240x240/1623582_774560009223835_7159794215110978132_n.png)
 
 
 #### What is YaLa Academy?
