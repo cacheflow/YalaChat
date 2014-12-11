@@ -1,7 +1,6 @@
-# YaLa Academy
-
 ![](http://imgur.com/pCd2aiN)
 
+# YaLa Academy
 
 #### What is YaLa Academy?
 
