@@ -1,6 +1,6 @@
 # YaLa Academy
 
-![](YalaChat/YalaChatLogo.png)
+![](http://imgur.com/pCd2aiN)
 
 
 #### What is YaLa Academy?
