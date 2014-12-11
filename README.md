@@ -1,5 +1,5 @@
-![](http://imgur.com/pCd2aiN)
-![](http://images.fineartamerica.com/images-medium-large-5/oscar-wilde-june-ponte.jpg)
+![YalaChat](http://i.imgur.com/pCd2aiN.png)
+
 
 # YaLa Academy
 
